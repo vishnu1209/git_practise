@@ -8,3 +8,5 @@ now edited in m2
 edited in master
 >>>>>>> master
 
+changing in m2
+
