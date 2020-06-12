@@ -2,5 +2,9 @@ created in master
 
 edited in m2
 
+<<<<<<< HEAD
 now edited in m2
+=======
+edited in master
+>>>>>>> master
 
