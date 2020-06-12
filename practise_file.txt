@@ -1,1 +1,7 @@
-commiting in master - 1
+
+commit from f1
+
+2nd commit from f1
+
+3rd commit from f1
+
